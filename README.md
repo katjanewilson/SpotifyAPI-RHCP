@@ -33,7 +33,6 @@ Add
 
 3. add
 
-## Evaluation
 
 ## Sample
 
@@ -44,10 +43,3 @@ Add
 </p>
 
 
-## Table of Contents
-
-<p align="center">
-<img src="https://github.com/katjanewilson/SpotifyAPI-TheSmiths/blob/master/images/image2.png"
-  alt="Size Limit comment in pull request about bundle size changes"
-  width="686" height="289">
-</p>
